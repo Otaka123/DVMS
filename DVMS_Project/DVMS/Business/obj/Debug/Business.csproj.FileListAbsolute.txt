@@ -1,0 +1,18 @@
+E:\project\WindowsFormsApp1\Business\bin\Debug\Business.dll
+E:\project\WindowsFormsApp1\Business\bin\Debug\Business.pdb
+E:\project\WindowsFormsApp1\Business\bin\Debug\dataAccess.dll
+E:\project\WindowsFormsApp1\Business\bin\Debug\dataAccess.pdb
+E:\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+E:\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.Up2Date
+E:\project\WindowsFormsApp1\Business\obj\Debug\Business.dll
+E:\project\WindowsFormsApp1\Business\obj\Debug\Business.pdb
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\bin\Debug\Business.dll
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\bin\Debug\Business.pdb
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\bin\Debug\dataAccess.dll
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\bin\Debug\dataAccess.pdb
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\obj\Debug\Business.csproj.Up2Date
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\obj\Debug\Business.dll
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\Business\obj\Debug\Business.pdb

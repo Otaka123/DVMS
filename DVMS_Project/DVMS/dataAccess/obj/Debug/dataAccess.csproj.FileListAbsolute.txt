@@ -1,0 +1,12 @@
+E:\project\WindowsFormsApp1\dataAccess\bin\Debug\dataAccess.dll
+E:\project\WindowsFormsApp1\dataAccess\bin\Debug\dataAccess.pdb
+E:\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.csproj.AssemblyReference.cache
+E:\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.csproj.CoreCompileInputs.cache
+E:\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.dll
+E:\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.pdb
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\bin\Debug\dataAccess.dll
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\bin\Debug\dataAccess.pdb
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.csproj.AssemblyReference.cache
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.csproj.CoreCompileInputs.cache
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.dll
+E:\programing\learn\c#\مشاريع\مشروع اداره السائقين والمركبات\project\WindowsFormsApp1\dataAccess\obj\Debug\dataAccess.pdb
